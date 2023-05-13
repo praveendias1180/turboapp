@@ -18,6 +18,12 @@
 - First 17.495s
 - Second 87ms (FULL TURBO)
 
+# Signing Commits
+
+```
+git commit -S -m "YOUR_COMMIT_MESSAGE"
+```
+
 ![](images/build-times.png)
 
 # Turborepo starter
