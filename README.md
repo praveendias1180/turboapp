@@ -13,6 +13,13 @@
 ![](images/turbo-link.png)
 
 
+# Build Times
+
+- First 17.495s
+- Second 87ms (FULL TURBO)
+
+![](images/build-times.png)
+
 # Turborepo starter
 
 This is an official starter Turborepo.
